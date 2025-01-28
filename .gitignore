@@ -1,0 +1,26 @@
+*.pyc
+*~
+.vscode
+__pycache__
+__pycache__/*
+scpy
+scpy2
+db.sqlite3
+/static
+.DS_Store
+.env
+/env
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+env
+smartchoicedjango/env
+smartchoicedjango/static
+node_modules
+smartbenefits/*
+venv
+.venv
+venv_demo
+venv_master
+.idea

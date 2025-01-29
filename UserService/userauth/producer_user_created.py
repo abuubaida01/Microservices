@@ -1,3 +1,5 @@
+# /home/dragon/projects/microservices/django-rabbitmq-microservice/UserService/userauth/producer_user_created.py
+
 import json
 import pika
 

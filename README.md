@@ -19,5 +19,4 @@ cd main_service
 python manage.py runserver
 
 cd worker_service
- python3 manage.py launch_queue_listener
- 
+  python3 manage.py launch_queue_listener
